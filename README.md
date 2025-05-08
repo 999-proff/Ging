@@ -16,15 +16,29 @@ Just a chill kid who enjoys learning new things and sometimes dreams of wanderin
 A Ging - Bot developer always hungry for new knowledge.
 
 ---
-### Contact Me
-Reach out via [WhatsApp](https://wa.me/628818654386)
+
+### My WhatsApp
+<p align="center">
+  <a href="https://wa.me/628818654386">
+    <img src="https://img.shields.io/badge/Chat%20with%20me-WhatsApp-1DB954?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+### My Spotify Playlist
+<p align="center">
+  <a href="https://open.spotify.com/playlist/2zaEu5BZKaqrvMSUA9DjSI?si=jjPBgIXvTGOHAxSWUhJC0Q">
+    <img src="https://img.shields.io/badge/My%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</p>
 
 ### My Instagram
 <p align="center">
   <a href="https://www.instagram.com/pr0ffies_morgue999?igsh=N3FxOGZreHFkNWdu">
-    <img src="https://img.shields.io/badge/Instagram-pr0ffies_morgue999-black?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Follow%20Me-Instagram-1DB954?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
 
 ---
 
